@@ -1,2 +1,2 @@
 # Figurebed
-CJJ
+图床数据
